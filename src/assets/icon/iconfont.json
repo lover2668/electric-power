@@ -1,0 +1,51 @@
+{
+  "id": "2066297",
+  "name": "electric-power",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "4480523",
+      "name": "电力",
+      "font_class": "dianli",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "9601075",
+      "name": "采集器",
+      "font_class": "caijiqi",
+      "unicode": "e65c",
+      "unicode_decimal": 58972
+    },
+    {
+      "icon_id": "9620726",
+      "name": "数据",
+      "font_class": "shuju-",
+      "unicode": "e729",
+      "unicode_decimal": 59177
+    },
+    {
+      "icon_id": "11661659",
+      "name": "数据",
+      "font_class": "shuju_huaban",
+      "unicode": "e638",
+      "unicode_decimal": 58936
+    },
+    {
+      "icon_id": "12803329",
+      "name": "数据",
+      "font_class": "shuju1",
+      "unicode": "e6e8",
+      "unicode_decimal": 59112
+    },
+    {
+      "icon_id": "16497751",
+      "name": "电力",
+      "font_class": "dianli1",
+      "unicode": "e622",
+      "unicode_decimal": 58914
+    }
+  ]
+}
